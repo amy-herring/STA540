@@ -18,7 +18,7 @@ The Duke University Community Commitment states: "Because diversity is essential
 It is my goal for our learning environment to facilitate learning and intellectual development for everyone. To help accomplish this:
   
   - If you have a name and/or set of pronouns that differ from those that appear in your official Duke records, please let me know.
-  - We are constantly learning more about diverse perspectives and identities. If something was said in class (by anyone) that made you feel uncomfortable, please talk to me about it. 
+  - We are constantly learning more about diverse perspectives and identities. If something occurred in class that made you feel uncomfortable, please talk to me about it. 
   
 
 ### Academic integrity
@@ -37,9 +37,9 @@ Cheating or plagiarism on assignments, lying about an illness or absence and oth
 
 Please review the Academic Dishonesty policies <a href="https://studentaffairs.duke.edu/conduct">here</a>. 
 
-- Several datasets we are privileged to use in class are confidential and cannot be distributed more broadly. Further dissemination of such datasets, made available on Sakai, will be considered a violation of the Duke Community Standard. If you are unsure whether you can use a dataset for purposes beyond class, please ask me.
+- Occasionally datasets we are privileged to use in class are confidential and cannot be distributed more broadly. Further dissemination of such datasets, made available on Sakai, will be considered a violation of the Duke Community Standard. If you are unsure whether you can use a dataset for purposes beyond class, please ask me.
 
-- Much of the work assigned in class is collaborative. The individual case study must be completed independently. In addition, regular assessments must be completed individually before they are tackled by the group. 
+- Much of the work assigned in class is collaborative. The individual case study must be completed independently. Group case studies are to be completed by groups. For other assignments, while you may talk about strategies for completing them with other students in the class, the work you submit must be your own individual work.
 
 **Referencing code:** The web contains an enormous volume of code that you may find useful. You are welcome to make use of any online resources (e.g. StackOverflow), but you must explicitly cite your sources. Any recycled code that is discovered and is not explicitly cited will be treated as plagiarism. On the individual case study you may not directly share code with another student in this class, and on team assignments you may not share code with another team in this class (you are welcome to discuss the problems together and ask for advice, but you may not send or make use of code from another team). 
 
@@ -47,13 +47,11 @@ Please review the Academic Dishonesty policies <a href="https://studentaffairs.d
 
 #### Class sessions
 
-If you miss class or would like to review the material covered in class, you can view the recordings on Sakai. Note that you will may to log in with your Net ID.
+Any live sessions, which would occur weekdays 2-3:15 EDT, will be recorded and made available on Sakai.
 
 #### Teams
 
-On the first day of class, we will develop teams of around 3 students - these teams will stay consistent 
-throughout the semester (barring extraordinary circumstances). You will work in these teams  on the group case studies. The process of forming teams will be completely transparent 
-and based on self-reported data (including schedules). Groups should adhere to specified [group policies](grouppolicies.html).
+Each group case study will be completed by a team of 2-3 students. Groups will change throughout the semester to allow you the opportunity to work with more students. Groups should adhere to specified [group policies](grouppolicies.html).
 
 #### Group case studies
 
@@ -67,16 +65,26 @@ Each case study will have a page limit, and under no circumstances should font s
 
 Students will be asked (on an individual, not group, basis) to provide feedback and comments on the case studies presented by other groups throughout the course. This feedback will be provided to the groups and will also be assessed as part of the course.
 
-HOW TO MANAGE PEER REVIEW, CONFLICTING COMMENTS, ETC
 
 
 #### Individual project
 
-ADD DETAILS HERE
+Each student will complete an individual project as part of the course. The individual project should use data that have not previously been used by the student in a project, and the analysis should be entirely the student's own work. Any external resources used should be clearly documented.
+
+Students seeking interesting datasets may wish to consider one or more of the following resources. A project proposal will be due early in the course.
+
+  - <a href="http://derekogle.com/fishR/packages#packages-of-data">fishR</a> : this is a collection of freshwater fisheries datasets
+  - <a href="https://cornelllabofornithology.github.io/auk/">auk</a>: R packaage for downloading and reading the eBird data (spatio-temporal big data)
+  - <a href="https://www.fisheries.noaa.gov/alaska/commercial-fishing/alaska-groundfish-bottom-trawl-survey-data">Alaska Fish Surveys</a>: Alaska Groundfish Bottom Trawl Survey Data (spatio-temporal data involving ocean temperature and species abundance)
+  - One of many COVID datasets
+    - <a href="https://covidseverity.com/">COVID</a>: County and hospital-level data from Bin Yu's group
+    - <a href="https://github.com/MIDS-at-Duke/duke-social-distancing-survey">Social Distancing</a>: Survey on social distancing in NC
+    - <a href="https://github.com/DukeStatSci/covid19-data">More COVID</a>: Repository from DataFest 2020
+
 
 #### Lab and class activities
 
-A number of smaller scale assessments will be administered, with the goal of honing skills in scientific communication and interpretation of results. Additional topics will be added based on the course trajectory and student needs. These activities will provide a way to obtain individual feedback on important collaborative skills.
+A number of smaller scale assessments will be administered, with the goal of honing skills in a variety of areas, including scientific communication, model evaluation, use and conduct of simulation studies, and interpretation of results. Additional topics will be added based on the course trajectory and student needs. These activities will provide a way to obtain individual feedback on important statistical science skills.
 
 
 ### Grading
@@ -87,14 +95,13 @@ QUESTIONS:  how to break down, how to incorporate individual feedback, how much 
 
 |Component | % of Grade |
 | ----------    | -----------------  |     
-|Lab and class activities     | 5% |
+|Individual Assignments (including peer reviews)     | 10% |
 |Group case study 1       | 20% |
 |Group case study 2   | 20%   |
 |Group case study 3          | 20% |
-|Individual case study part I      | 25% |
-|Individual case study part II      | 25% |
-|Individual case study final report      | 25% |
-|Individual case study revision      | 25% |
+|Individual case study part I      | 5% |
+|Individual case study part II      | 10% |
+|Individual case study final report and revision      | 15% |
 
 
 
@@ -119,7 +126,7 @@ at https://trinity.duke.edu/undergraduate/academic-policies/personal-emergencies
 
 ### Late / missed work
 
-Late work policy for case study reports: 
+Late work policy for assignments: 
 
 - late, but within 24 hours of due date/time: -20%
 - any later: no credit
@@ -127,7 +134,7 @@ Late work policy for case study reports:
 
 ### Regrade requests
 
-Regrade requests must be made within three days of when a report is returned. These will be honored if points were tallied incorrectly, or if you feel part of your report is correct, but it was marked wrong. No regrade will be made to alter the number of points deducted for an issue. When a regrade request is evaluated, if new errors are identified, additional points may be deducted from the grade. The last day to file a grade change request is June 22.
+Regrade requests must be made within two days of when a report is returned. These will be honored if points were tallied incorrectly, or if you feel part of your report is correct, but it was marked wrong (these things do happen!). No regrade will be made to alter the number of points deducted for an issue. When a regrade request is evaluated, if new errors are identified, additional points may be deducted from the grade. The last day to file a grade change request is June 22.
 
 
 

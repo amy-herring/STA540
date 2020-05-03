@@ -26,7 +26,7 @@ One goal of STA 540 is to prepare you for work as a practicing statistician. Imp
 
 Mini lectures will include some new material you may not have seen, as well as material that you have already seen but that is often poorly understood. My goal is for you to be as prepared as possible to tackle real-world problems. This means that questions of interest will typically not be framed in much statistical detail -- part of your job will be to figure out which tools to use to analyze the data.  You should expect to be working without a "play by play" guide.
 
-Because of the nature of the course, we will encounter many more advanced topics that could easily be the subject of entire courses. For the benefit of those whose interest is piqued, I will post additional resources for further exploration. Part of the goal of this course is to learn how (and what!) to teach yourself in order to complete a project, but we'll also take an academic view and delve more deeply into topics, time permitting.
+Because of the nature of the course, we will encounter many more advanced topics that could easily be the subject of entire courses. For the benefit of those whose interest is piqued, I will post additional resources for further exploration. Part of the goal of this course is to learn how (and what!) to teach yourself in order to complete a project, but we'll also  delve more deeply into topics, time permitting.
 
 Flexibility, work ethic, knowledge of statistical science, pragmatism, the ability to proceed with minimal direction, professionalism, communication skills, and the willingness to try new things are all strong predictors of success in STA 540 (as well as in the working world). Don't worry if you haven't mastered all of these -- we'll work on them in class! 
 
@@ -52,7 +52,7 @@ Note: office hours may vary. Revisions to office hours will be noted via e-mail 
 
 ### Materials
 
-Texts and readings will be assigned as needed. We will support computation in R and RStudio. Students are free to use any software they wish as long as reproducibility requirements are met.
+Texts and readings will be assigned as needed. We will support computation in R and RStudio. 
 
 
 ### Topics and Important Dates
@@ -69,7 +69,7 @@ Note: this schedule is approximate and is likely to be modified as the course pr
 | May 14    | Case Study 1: Dosing Donkeys  |   Getting to Know You Video |             
 | May 15     | What is a Good Model?      |  Popes Assignment (Individual)     |
 | May 18    | Simulations, Evaluating Models    |      |
-| May 19   | Loss Functions  |  Individual Project Proposal   |
+| May 19   | Loss Functions  |  Individual Project Proposal (Report and Video)   |
 | May 20   | Q\&A |   |
 | May 21  | Writing Methods, Results, and Discussion Sections | Case Study 1 (Report, Video, Reproducible Code); Feedback on Individual Proposals  |
 | May 22  | Regression in Matrix Notation; Interaction | Case Study 1 Comments (including reproducibility)   |
