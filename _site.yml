@@ -1,0 +1,32 @@
+name: Case Studies in Statistical and Data Science
+output_dir: '.'
+navbar:
+  title: Case Studies
+  type: inverse
+  left:
+  - text: Home
+    href: index.html
+  - text: Policies
+    href: policies.html
+  - text: Dosing Donkeys
+    href: anova01.html
+  - text: China's Economic Development
+    href: elec02.html
+  - text: Do you wear your stress on your sleeve?
+    href: fun03.html
+  
+
+  
+
+output:html_document:
+  theme: yeti
+  highlight: haddock
+  fig_caption: yes
+  toc: yes
+  toc_float:
+    collapsed: no
+    smooth_scroll: yes
+  css: styles.css
+  lib_dir: site_libs
+  self_contained: no
+
