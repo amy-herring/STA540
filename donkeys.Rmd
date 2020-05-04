@@ -51,5 +51,17 @@ Excerpts from preprint of Nolan and Stoudt's *Communicating with Data: The Art o
 
 # Video Lectures
 
+[Scientific writing]
+
+[What is a good model?]
+
+[Cross-validation]
+
+[Loss functions]
+
+[Simulation]
+
+
+
 
 
