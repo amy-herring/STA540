@@ -9,11 +9,13 @@ navbar:
   - text: Policies
     href: policies.html
   - text: Dosing Donkeys
-    href: anova01.html
+    href: donkeys.html
   - text: China's Economic Development
     href: elec02.html
   - text: Stress Detection Using Wearables
     href: fun03.html
+  - text: Individual Project
+    href: individual.html
   
 
   

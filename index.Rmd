@@ -66,32 +66,32 @@ Note: this schedule is approximate and is likely to be modified as the course pr
 |Date           |Topic                      |Deliverables     |
 | ----------    | ---------------------------         | --------------- |
 | May 13     | Welcome and Introductions, Course Goals, Writing Scientific Reports, and  Popes      |         |
-| May 14    | Case Study 1: Dosing Donkeys  |   Getting to Know You Video |             
+| May 14    | Case Study 1: Dosing Donkeys |   Getting to Know You Video |             
 | May 15     | What is a Good Model?      |  Popes Assignment (Individual)     |
 | May 18    | Simulations, Evaluating Models    |      |
-| May 19   | Loss Functions  |  Individual Project Proposal (Report and Video)   |
+| May 19   | Loss Functions  | Individual Project Proposal (Report and Video)   |
 | May 20   | Q\&A |   |
 | May 21  | Writing Methods, Results, and Discussion Sections | Case Study 1 (Report, Video, Reproducible Code); Feedback on Individual Proposals  |
 | May 22  | Regression in Matrix Notation; Interaction | Case Study 1 Comments (including reproducibility)   |
 | May 26  | Case Study 2: China's Economic Development and  Household Income; Gini Index | Case Study 1 Response and Revision; Regression Simulation (Individual)    |
-| May 27  | Recap of Case Study 1; Longitudinal Data Analysis: Mixed Effects Model  | Individual Project Part I: Introduction and Data Description |
+| May 27  | Recap of Case Study 1; Longitudinal Data Analysis: Mixed Effects Model  | Individual Project Submission I: Introduction and Data Description |
 | May 28  | Mixed Effects Model, Covariance |   |
-| May 29  | Missing Data |  Comments on Individual Project Part I |
+| May 29  | Missing Data |  Comments on Individual Project Submission I |
 | June 1  | Missing Data Simulation Study |  |
 | June 2 |  |  |
 | June 3 |   |  Case Study 2 (Report, Video, Reproducible Code) |
 | June 4  |         | Case Study 2 Comments (peer and instructor, including reproducibility) |
 | June 5    |  | Case Study 2 Response and Revision   | 
-| June 8   | Recap of Case Study 2 | Individual Project Part II: Methods and Preliminary Results (Report, Video, Reproducible Code) | 
+| June 8   | Recap of Case Study 2 | Individual Project Submission II: Methods and Preliminary Results (Report, Video, Reproducible Code) | 
 | June 9   | Case Study 3: Wearables and Stress |  |
-| June 10  |  | Comments on Individual Project Part II (peer and instructor) |
+| June 10  |  | Comments on Individual Project Submission II (peer and instructor) |
 | June 11   |  |   |
 | June 12    | |   |
 | June 15  | |  | 
 | June 16    | | Case Study 3 (Report, Video, Reproducible Code)  | 
 | June 17    |  |  Case Study 3 Comments (peer and instructor, including reproducibility) | 
 | June 18   |  | Case Study 2 Response and Revision |
-| June 19   | | Individual Project (Report, Video, Reproducible Code) | 
-| June 22   | | Individual Project Comments (peer and instructor) |  
-| June 25    | | Individual Report Response and Final Revision (due at 2pm) | 
+| June 19   | | Individual Project Submission III (Report, Video, Reproducible Code) | 
+| June 22   | | Individual Project Comments on Submission III (peer and instructor) |  
+| June 25    | | Individual Project Response and Final Revision (due at 2pm) | 
 
