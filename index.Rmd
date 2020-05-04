@@ -86,7 +86,7 @@ Note: this schedule is approximate and is likely to be modified as the course pr
 | June 9   | Case Study 3: Wearables and Stress |  |
 | June 10  |  | Comments on Individual Project Submission II (peer and instructor) |
 | June 11   |  |   |
-| June 12    | |   |
+| June 12    | Guest Lecture on Professional Opportunities: Prof David Banks |   |
 | June 15  | |  | 
 | June 16    | | Case Study 3 (Report, Video, Reproducible Code)  | 
 | June 17    |  |  Case Study 3 Comments (peer and instructor, including reproducibility) | 
