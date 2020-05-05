@@ -9,6 +9,7 @@ library(knitr)
 library(tidyverse)
 ```
 
+![From store.empatica.com](images/empatica.jpg)
 
 # Learning Objectives
 
