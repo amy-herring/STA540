@@ -36,6 +36,8 @@ Flexibility, work ethic, knowledge of statistical science, pragmatism, the abili
 
 <font color="#6CA0DC"><i class="fas fa-calendar-alt fa-lg"></i></font> &nbsp; MTWThF (office hours with instructor or TA, some live lectures to be recorded)
 
+Recordings will be placed on Sakai, arranged by date.
+
 
 ### Teaching team and office hours 
 
@@ -59,7 +61,7 @@ Texts and readings will be assigned as needed. We will support computation in R 
 
 STA 540 contain a mixture of short lecture, lab, and work sessions. Frequent smaller-scale assessments will be provided to check mastery and identify areas for additional focus. The schedule below lists deadlines for major assignments; the smaller-scale assessments will be assigned frequently (approximately every other day) with a tight turnaround to ensure no one falls behind.
 
-Note: this schedule is approximate and is likely to be modified as the course progresses. Some sessions may be swapped due to course timing. Assignments are due at noon EDT unless otherwise specified. 
+Note: this schedule is approximate and is likely to be modified as the course progresses. Some sessions may be swapped due to course timing. Assignments are due by noon EDT unless otherwise specified. 
 
 
 
