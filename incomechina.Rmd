@@ -9,6 +9,8 @@ library(knitr)
 library(tidyverse)
 ```
 
+![Source: Sarah (who is presumably tied to Ireland) at https://graphs.net/economic-growth-china.html](images/china.jpg)
+
 
 # Learning Objectives
 

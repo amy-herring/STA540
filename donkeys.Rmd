@@ -8,6 +8,7 @@ library(knitr)
 library(tidyverse)
 ```
 
+![Photo by Freya Dowson](images/freyadowson_donkeys.jpg)
 
 # Learning Objectives
 
