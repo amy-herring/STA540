@@ -40,6 +40,7 @@ Students seeking interesting datasets may wish to consider one or more of the fo
 # Resources
 
 - Duke Global Health Institute Research Data Analysis Center (RDAC) Statistical Analysis Plan Template (on Sakai): while you don't need to follow this format, it's helpful to look at the structure and content needed when requesting analysis from a professional statistics core.
+- Structure of a Data Analysis Report by Prof. Brian Junker (on Sakai): great guide to the bones of a good project report
 
 # Reports 
 
