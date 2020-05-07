@@ -41,11 +41,17 @@ library(tidyverse)
 
 # Resources
 
+[Physiology of Stress](https://samples.jblearning.com/0763740411/Ch%202_Seaward_Managing%20Stress_5e.pdf)
+
 [Schmidt et al, Introducing WESAD, a Multimodal Dataset for Wearable Stress and Affect Detection](https://doi.org/10.1145/3242969.3242985)
 
+[WESAD Data](https://archive.ics.uci.edu/ml/datasets/WESAD%20%28Wearable%20Stress%20and%20Affect%20Detection%29)
 
+[Help Dealing with Data](https://github.com/brinnaebent/Examples_WESAD)
 
-# Video Lectures
+[Help Visualizing these Data](https://github.com/Big-Ideas-Lab/DBDP/tree/master/DigitalBiomarkers-ExploratoryDataAnalysis/MissingDataAnalysis)
+
+# Video Lectures (See Sakai)
 
 
 

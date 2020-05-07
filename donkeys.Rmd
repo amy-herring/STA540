@@ -21,7 +21,7 @@ library(tidyverse)
 
 - Identify an excellent model for predicting donkey weight based on data easily obtained in the field.
 - Provide a comprehensive interpretation of your model, explaining how the field data are used to predict weight, in language accessible to a typical student in veterinary school.
-- Compare the fit of your model with that of a model corresponding to the procedure proposed by Milner and Rougier. If you find your model superior in fit, discuss whether you would recommend its routine use in the field and provide simple tool for doing so.
+- Compare the fit of your model with that of a model corresponding to the procedure proposed by Milner and Rougier. Present the pros and cons of each procedure honestly. If you find your model superior in fit, discuss whether you would recommend its routine use in the field and provide simple tool for doing so. (Provide the simple tool even if you don't find your model superior for grading purposes!)
 
 # Data
 
@@ -50,7 +50,7 @@ Excerpts from preprint of Nolan and Stoudt's *Communicating with Data: The Art o
 
 *Introduction to Statistical Learning* Section 5.1 (link on Sakai site)
 
-# Video Lectures
+# Video Lectures (see Sakai)
 
 [Scientific writing]
 
