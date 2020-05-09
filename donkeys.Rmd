@@ -54,9 +54,9 @@ Excerpts from preprint of Nolan and Stoudt's *Communicating with Data: The Art o
 
 [Scientific writing]
 
-[What is a good model?]
+[What is a good model? (Part I and II)]
 
-[Cross-validation]
+[Cross-validation](decks/crossval.html)
 
 [Loss functions]
 
