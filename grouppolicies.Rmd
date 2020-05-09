@@ -12,7 +12,7 @@ library(tidyverse)
 
 Your group has a number of responsibilities for problem and project assignments, described below.
 
-- Designate a coordinator, recorder, reproducibility checker, and monitor/reviewer for each assignment. These should vary so that each group member takes a different role on a new assignment. For smaller teams, members may need to take on multiple roles.
+- Designate a coordinator, recorder, reproducibility checker, and monitor/reviewer for each assignment. These should vary so that each group member takes a different role on a new assignment. For teams of 2 or 3, you'll be playing multiple roles!
 - Agree on meeting times in advance and on what each member should have complete before the meetings (readings, initial analysis, coding, etc.).
 - Do the required individual preparation.
 - Coordinator sends reminder before meeting that includes meeting location, time, and individual preparation assignments
@@ -44,7 +44,7 @@ Potential expectations include the following (not an exhaustive list!):
 
 ### Group evaluations
 
-After each case study, each group member will provide evaluations of the other team members on Sakai. In the case you feel one or more team members deserves a different grade on the assignment than the others, you'll provide a description of why that member or members deserves a different grade. 
+After each case study, each group member will provide evaluations of the other team members on Sakai. In the case you feel team members deserve different grades on the assignment, you'll provide an estimate of the percentage of the work done by each team member and address why members deserve different grades. If needed, I will scale an individual's grade as appropriate by the contribution reported by other team members.
 
 If a team member indicates each group member participated appropriately, but later voices a complaint that the work was not equally divided, then evaluations will be consulted (and if, at the time, you felt work was equally divided, then that will be used as strong evidence against your claim).  That is, it's generally not to your advantage to ``be nice'' and give everyone equal credit if it is not deserved.
 

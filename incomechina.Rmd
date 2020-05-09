@@ -1,6 +1,6 @@
 
 ---
-title: "Case Study 2: China's Economic Transformation"
+title: 'Case Study 2: China''s Economic Transformation'
 ---
 
 ```{r, echo=FALSE, include=FALSE}
@@ -56,9 +56,9 @@ library(tidyverse)
 
 # Video Lectures (See Sakai)
 
-[Simple Intro to Regression in Matrix Notation](https://sakai.duke.edu/access/content/group/4764eb60-fee9-4d30-8965-a6cfbe32615b/Project%20Part%20II/Videos/matrixlinearmodel.mp4)
+[Simple Intro to Regression in Matrix Notation]
 
-[Interaction](https://sakai.duke.edu/access/content/group/4764eb60-fee9-4d30-8965-a6cfbe32615b/Project%20Part%20II/Videos/interaction.mp4)
+[Interaction]
 
 [Scale and Collinearity with the Intercept]
 
