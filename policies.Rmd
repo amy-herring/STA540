@@ -90,7 +90,7 @@ Your final grade will be comprised of the following.
 |Group case study 2   | 20%   |
 |Group case study 3          | 20% |
 |Individual project proposal and part I      | 5% |
-|Individual projec part II      | 10% |
+|Individual project part II      | 10% |
 |Individual project final report (part III) and revision      | 15% |
 
 Each report will be graded based on the initial submission, with the ability to earn additional points based on the revised report.
