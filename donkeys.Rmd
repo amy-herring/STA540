@@ -50,9 +50,7 @@ Excerpts from preprint of Nolan and Stoudt's *Communicating with Data: The Art o
 
 *Introduction to Statistical Learning* Section 5.1 (link on Sakai site)
 
-# Video Lectures (see Sakai)
-
-[Scientific writing]
+# Video Lectures (see Sakai for videos)
 
 [What is a good model? (Part I and II)]
 
@@ -60,7 +58,7 @@ Excerpts from preprint of Nolan and Stoudt's *Communicating with Data: The Art o
 
 [Loss functions]
 
-[Simulation]
+[Simulation (Lab)]
 
 
 

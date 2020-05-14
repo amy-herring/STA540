@@ -54,9 +54,9 @@ library(tidyverse)
 
 [Regression in Matrix Notation](https://www.stat.purdue.edu/~boli/stat512/lectures/topic3.pdf)
 
-# Video Lectures (See Sakai)
+# Video Lectures (See Sakai for Videos)
 
-[Simple Intro to Regression in Matrix Notation]
+[Simple Intro to Regression in Matrix Notation](matrixreg.html)
 
 [Interaction]
 

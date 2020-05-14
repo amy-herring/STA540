@@ -1,0 +1,132 @@
+---
+title: Matrix Formulation of the Linear Model
+output: 
+  revealjs::revealjs_presentation:
+    theme: night
+    highlight: espresso
+    center: true
+    transition: none
+    fig_caption: true
+    reveal_options:
+      progress: true
+      slideNumber: true
+ 
+---
+
+
+
+## Matrix Formulation
+
+As we move towards more complex models, it will be a lot easier to work with the model in *matrix* form rather than in *scalar* form. 
+
+##
+
+The *general linear model* is written in matrix form as $y=X\beta+\varepsilon$. Consider the simple model $y_{i}=\beta_0+\beta_1x_{1i}+\beta_2x_{2i}+\varepsilon_{i}$. We can represent this model in matrix form as follows. (It may be helpful to think of $x_1$ as measuring age and $x_2$ as measuring weight.)
+
+\begin{eqnarray*}
+y &=& X \beta + \varepsilon \\
+\begin{bmatrix} y_{1} \\ y_{2} \\ \vdots  \\ y_{n} \end{bmatrix}_{n \times 1} &=& \begin{bmatrix} 1 & 22 & 153  \\ 1 & 20 & 104 \\ \vdots &\vdots & \vdots  \\ 1 & 25 & 143 \end{bmatrix}_{n \times 3}  \begin{bmatrix} \beta_0 \\ \beta_1 \\ \beta_2 \end{bmatrix} + \begin{bmatrix} \varepsilon_{1} \\ \varepsilon_{2} \\ \vdots \\  \varepsilon_{n} \end{bmatrix}_{n \times 1}
+\end{eqnarray*}
+
+$\varepsilon \sim N(0,\sigma^2I)$
+
+
+
+
+## Least Squares Estimation
+
+The least squares estimate minimizes the sum of squared residuals given by 
+
+\begin{eqnarray*}
+SSE&=& (y-\widehat{y})'(y-\widehat{y}) \\
+&=& (y-X\widehat{\beta})'(y-X\widehat{\beta}) \\
+&=& y'y-2\widehat{\beta}'X'y+\widehat{\beta}'X'X\widehat{\beta}
+\end{eqnarray*}
+
+
+
+##
+
+To find $\mu$ that minimizes the SSE$=y'y-2\beta'X'y+\beta'X'X\beta$ take derivatives:
+
+$$\frac{\partial SSE}{\partial \beta}=0-2X'y+2X'X\beta$$ and then solve for 0:
+
+$$0=-2X'y+2X'X\widehat{\beta}$$ to get the *normal equations* $$(X'X)_{p \times p}\widehat{\beta}=X'y.$$
+
+[Read more here if you're rusty on matrix differentiation.](https://eli.thegreenplace.net/2015/the-normal-equation-and-matrix-calculus/)
+
+
+##
+
+When $X$ has rank $p$, we solve the normal equations
+
+\begin{eqnarray*}
+(X'X)\widehat{\beta}&=&X'y \\
+(X'X)^{-1}(X'X)\widehat{\beta}=(X'X)^{-1}X'y \\
+\widehat{\beta}=(X'X)^{-1}X'y
+\end{eqnarray*}
+
+Our least squares estimate in this case is unique, the best linear unbiased estimate, and if our errors are Gaussian, $\widehat{\beta}$ is the MLE and minimum variance unbiased estimator. 
+
+When $X$ has rank $<p$, we can use a generalized inverse, but $\widehat{\beta}$ is not unique, though the predicted values and residuals are unique.
+
+
+##
+
+Instead of using the MLE for $\sigma^2$, we usually estimate $\sigma^2$ using the mean squared error, so that $$s^2=MSE=\frac{(y-X\widehat{\beta})'(y-X\widehat{\beta})}{n-p},$$ where $p$ is the number of columns in $X$. 
+
+## Variance of $\widehat{\beta}$
+
+Our model is $y=X\beta+\varepsilon$, where $\varepsilon \sim N(0,\sigma^2I)$.
+
+Recall from linear algebra that for a constant matrices $A$ and $B$ and constant vector $c$, $E(AY+c)=AE(Y)+c$, $\text{Cov}(AY+c)=A\text{Cov}(Y)A'$, and $(AB)'=B'A'$.
+
+Then
+
+\begin{eqnarray*}
+\text{Cov}(\widehat{\beta})&=&\text{Cov}\left((X'X)^{-1}X'y\right) \\
+&=&(X'X)^{-1}X'\text{Cov}(y)\left((X'X)^{-1}X'\right)' \\
+&=&(X'X)^{-1}X'\sigma^2X(X'X)^{-1} ~~~ \text{(}X'X \text{ is symmetric)} \\
+&=&\sigma^2(X'X)^{-1}X'X(X'X)^{-1}=\sigma^2(X'X)^{-1} 
+\end{eqnarray*}
+
+
+## Distribution of Least Squares Estimates
+
+The least squares estimate $\widehat{\beta}=(X'X)^{-1}X'y$. 
+
+Its covariance is given by $\text{Cov}(\widehat{\beta})=\sigma^2(X'X)^{-1}$.
+
+In large samples, or when our errors are exactly normal, $\widehat{\beta} \sim N\left(\beta,\sigma^2(X'X)^{-1}\right)$. 
+
+
+
+## Linear Combinations
+
+Often we wish to test a hypothesis about a *linear combination* of parameters.  
+
+The quantity $\sum_j a_j \beta_j$ is a *linear combination*. It is called a *contrast* if $\sum_j a_j=0$. Using matrix notation, we often express a hypothesis regarding a linear combination of regression coefficients as
+
+\begin{eqnarray*}
+H_0: ~~~~&\theta& = C\beta = \theta_0 \\
+H_a: ~~~~&\theta& = C\beta \neq \theta_0,
+\end{eqnarray*}
+
+where often $\theta_0=0$.
+
+##
+
+For example, if we have three groups in the model $y_{i}=\beta_0+\beta_1I(\text{group}_i=1)+\beta_2I(\text{group}_i=2)+\varepsilon_{i}$ and want to test differences in all pairwise comparisons, we can use $\beta=\begin{pmatrix} \beta_0 \\ \beta_1 \\ \beta_2 \end{pmatrix}$, $C=\begin{pmatrix} 0 & 1 & 0 \\ 0 & 0 & 1 \\ 0 & 1 & -1 \end{pmatrix}$, $\theta_0=\begin{pmatrix} 0 \\ 0 \\ 0 \end{pmatrix}$ so that our hypothesis is that $\begin{pmatrix} \beta_1 \\ \beta_2 \\ \beta_1 - \beta_2 \end{pmatrix}=\begin{pmatrix} 0 \\ 0 \\ 0 \end{pmatrix}$.
+
+<font size="3"> Row 1 tests if group 1 and group 2 are the same (both would have expected mean $\beta_0$); row 2 tests if group 1 and group 3 are the same, and row 3 tests if group 2 and group 3 are the same.</font> 
+
+## Distributional Results for Linear Combinations
+
+Using basic properties of the multivariate normal distribution, $$C \widehat{\beta} \sim N\left(C\beta,\sigma^2 C(X'X)^{-1}C'\right).$$
+
+Using this result, you can derive the standard error for any linear combination of parameter estimates, which can be used in constructing confidence intervals.
+
+\vspace{.1in}
+
+You could also fit a reduced model subject to the constraint you wish to test (e.g., same mean for groups 1 and 2), and then use either a partial F test or a likelihood-ratio test (F is special case of LRT) to evaluate the hypothesis that the reduced model is adequate.
+
