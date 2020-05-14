@@ -480,7 +480,7 @@ SSE&amp;=&amp; (y-\widehat{y})'(y-\widehat{y}) \\
 </section>
 <section id="section-1" class="slide level2">
 <h2></h2>
-<p>To find <span class="math inline">\(\mu\)</span> that minimizes the SSE<span class="math inline">\(=y'y-2\beta'X'y+\beta'X'X\beta\)</span> take derivatives:</p>
+<p>To find <span class="math inline">\(\beta\)</span> that minimizes the SSE<span class="math inline">\(=y'y-2\beta'X'y+\beta'X'X\beta\)</span> take derivatives:</p>
 <p><span class="math display">\[\frac{\partial SSE}{\partial \beta}=0-2X'y+2X'X\beta\]</span> and then solve for 0:</p>
 <p><span class="math display">\[0=-2X'y+2X'X\widehat{\beta}\]</span> to get the <em>normal equations</em> <span class="math display">\[(X'X)_{p \times p}\widehat{\beta}=X'y.\]</span></p>
 <p><a href="https://eli.thegreenplace.net/2015/the-normal-equation-and-matrix-calculus/">Read more here if you’re rusty on matrix differentiation.</a></p>
@@ -531,7 +531,7 @@ H_a: ~~~~&amp;\theta&amp; = C\beta \neq \theta_0,
 <section id="section-4" class="slide level2">
 <h2></h2>
 <p>For example, if we have three groups in the model <span class="math inline">\(y_{i}=\beta_0+\beta_1I(\text{group}_i=1)+\beta_2I(\text{group}_i=2)+\varepsilon_{i}\)</span> and want to test differences in all pairwise comparisons, we can use <span class="math inline">\(\beta=\begin{pmatrix} \beta_0 \\ \beta_1 \\ \beta_2 \end{pmatrix}\)</span>, <span class="math inline">\(C=\begin{pmatrix} 0 &amp; 1 &amp; 0 \\ 0 &amp; 0 &amp; 1 \\ 0 &amp; 1 &amp; -1 \end{pmatrix}\)</span>, <span class="math inline">\(\theta_0=\begin{pmatrix} 0 \\ 0 \\ 0 \end{pmatrix}\)</span> so that our hypothesis is that <span class="math inline">\(\begin{pmatrix} \beta_1 \\ \beta_2 \\ \beta_1 - \beta_2 \end{pmatrix}=\begin{pmatrix} 0 \\ 0 \\ 0 \end{pmatrix}\)</span>.</p>
-<p><font size="3"> Row 1 tests if group 1 and group 2 are the same (both would have expected mean <span class="math inline">\(\beta_0\)</span>); row 2 tests if group 1 and group 3 are the same, and row 3 tests if group 2 and group 3 are the same.</font></p>
+<p><font size="3"> Row 1 tests if group 1 and group 3 are the same (both would have expected mean <span class="math inline">\(\beta_0\)</span>); row 2 tests if group 2 and group 3 are the same, and row 3 tests if group 1 and group 2 are the same.</font></p>
 </section>
 <section id="distributional-results-for-linear-combinations" class="slide level2">
 <h2>Distributional Results for Linear Combinations</h2>

@@ -47,7 +47,7 @@ SSE&=& (y-\widehat{y})'(y-\widehat{y}) \\
 
 ##
 
-To find $\mu$ that minimizes the SSE$=y'y-2\beta'X'y+\beta'X'X\beta$ take derivatives:
+To find $\beta$ that minimizes the SSE$=y'y-2\beta'X'y+\beta'X'X\beta$ take derivatives:
 
 $$\frac{\partial SSE}{\partial \beta}=0-2X'y+2X'X\beta$$ and then solve for 0:
 
@@ -118,7 +118,7 @@ where often $\theta_0=0$.
 
 For example, if we have three groups in the model $y_{i}=\beta_0+\beta_1I(\text{group}_i=1)+\beta_2I(\text{group}_i=2)+\varepsilon_{i}$ and want to test differences in all pairwise comparisons, we can use $\beta=\begin{pmatrix} \beta_0 \\ \beta_1 \\ \beta_2 \end{pmatrix}$, $C=\begin{pmatrix} 0 & 1 & 0 \\ 0 & 0 & 1 \\ 0 & 1 & -1 \end{pmatrix}$, $\theta_0=\begin{pmatrix} 0 \\ 0 \\ 0 \end{pmatrix}$ so that our hypothesis is that $\begin{pmatrix} \beta_1 \\ \beta_2 \\ \beta_1 - \beta_2 \end{pmatrix}=\begin{pmatrix} 0 \\ 0 \\ 0 \end{pmatrix}$.
 
-<font size="3"> Row 1 tests if group 1 and group 2 are the same (both would have expected mean $\beta_0$); row 2 tests if group 1 and group 3 are the same, and row 3 tests if group 2 and group 3 are the same.</font> 
+<font size="3"> Row 1 tests if group 1 and group 3 are the same (both would have expected mean $\beta_0$); row 2 tests if group 2 and group 3 are the same, and row 3 tests if group 1 and group 2 are the same.</font> 
 
 ## Distributional Results for Linear Combinations
 
