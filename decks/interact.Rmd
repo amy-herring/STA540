@@ -6,7 +6,6 @@ output:
     highlight: espresso
     center: true
     transition: none
-    css: styles.css
     fig_caption: true
     reveal_options:
       progress: true
@@ -18,9 +17,9 @@ output:
 
 
 
-## Multi-Way ANOVA and Interactions
+##  Interactions
 
-ANOVA is easily extended to accommodate any number of categorical variables. Variables may each contribute independently to a response, or they may work together to influence response values.
+Linear models are easily extended to accommodate any number of variables. Variables may each contribute independently to a response, or they may work together to influence response values.
 
 *Interaction effects* are important when the association between one independent variable and the response may depend on the level of another independent variable. 
 [Click this link for insight on what interactions imply in terms of group means](https://courses.washington.edu/smartpsy/interactions.htm)
@@ -111,16 +110,16 @@ p<- ggplot(gp, aes(x=dose, y=len, fill=supp)) +
 # Finished bar plot
 p+labs(title="Odontoblast length by dose", x="Dose (mg)", y = "Length")+
    theme_classic() +
-   scale_fill_manual(values=c('#999999','#E69F00'))
+   scale_fill_manual(values=c('#E69F00','#999999'))
 
 ```
 
-Looking at the boxplot of the growth data, what type of ANOVA model may be most appropriate?  Take a moment to write a model in mathematical notation -- then we will confer with groups on possible choices.
+Looking at the boxplot of the growth data, what type of ANOVA model may be most appropriate?  Take a moment to write a model in matrix notation -- then we will consider possible choices.
 
-## Your task!
+## Your task (individual assignment)!
 
 1. Under your ANOVA model, write out (in terms of parameters) the means for each combination of supplement type and dose.
-2. Fit your model and provide a $\leq$ one-page summary of the analysis in language accessible to the general public.
+2. Fit your model and provide a short summary of the analysis in language accessible to the general public.
 3. Suppose that greater lengths are indicative of better absorption. Make a recommendation for the dose(s) and supplement type(s) to be used to deliver vitamin C to armed forces members, assuming that the goal is to maximize absorption of vitamin C. Use statistical evidence to support your recommendation.
 4. Conduct diagnostic checks to see how well the assumptions behind your model are satisfied. Are there any reasons for concern about your model choice?
 
