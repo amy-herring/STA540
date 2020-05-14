@@ -56,7 +56,7 @@ library(tidyverse)
 
 # Video Lectures (See Sakai for Videos)
 
-[Simple Intro to Regression in Matrix Notation](matrixreg.html)
+[Simple Intro to Regression in Matrix Notation](decks/matrixreg.html)
 
 [Interaction]
 
