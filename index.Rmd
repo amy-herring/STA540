@@ -71,9 +71,9 @@ Note: this schedule is approximate and is likely to be modified as the course pr
 | May 14    | Case Study 1: Dosing Donkeys; Introduction of Lab Case  |   Getting to Know You Video |             
 | May 15     | What is a Good Model?      |  Popes Assignment (Individual)     |
 | May 18    | Evaluating Models; Writing Models   |  Donkey Equation (Individual); Research Ethics and Privacy Forum Posts (Individual) |
-| May 19   | Loss Functions; Lab-Simulations |   |
+| May 19   | Loss Functions; Lab: Simulations |   |
 | May 20   | Q\&A | Individual Project Proposal (Report and 2 Minute Video)   |
-| May 21  | Writing Methods, Results, and Discussion Sections; Lab Case | Case Study 1 (Report, Video, Reproducible Code); Feedback on Individual Proposals  |
+| May 21  | Writing Methods, Results, and Discussion Sections; Lab Case | Case Study 1 (Report, Video/Presentation, Reproducible Code); Feedback on Individual Proposals  |
 | May 22  | Regression in Matrix Notation; Interaction | Case Study 1 Comments (including reproducibility); Individual Proposal Meetings  |
 | May 26  | Case Study 2: China's Economic Development and  Household Income; Gini Index | Case Study 1 Response and Revision; Regression Simulation (Individual)    |
 | May 27  | Recap of Case Study 1; Longitudinal Data Analysis: Mixed Effects Model  | Individual Project Submission I: Introduction and Data Description |
