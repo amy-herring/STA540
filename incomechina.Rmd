@@ -58,7 +58,7 @@ library(tidyverse)
 
 [Simple Intro to Regression in Matrix Notation](decks/matrixreg.html)
 
-[Interaction]
+[Interaction](decks/interact.html)
 
 [Scale and Collinearity with the Intercept]
 
