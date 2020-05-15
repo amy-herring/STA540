@@ -14,9 +14,9 @@ library(tidyverse)
 
 # Learning Objectives
 
+- learn about the framework of hierarchical models and the linear mixed effects model for clustered data
 - learn the basic features that complicate analysis of longitudinal data
 - understand why interaction is a crucial consideration for longitudinal data
-- learn about the framework of hierarchical models and the linear mixed effects model
 - weigh different covariance functions for correlated data
 - learn about missing data patterns and mechanisms, and understand how to determine appropriate methods for analysis of data subject to missing values
 
@@ -60,7 +60,7 @@ library(tidyverse)
 
 [Interaction](decks/interact.html)
 
-[Scale and Collinearity with the Intercept]
+[Multilevel Modeling](decks/multilevel.html)
 
 [Longitudinal Data]
 
