@@ -62,7 +62,7 @@ library(tidyverse)
 
 [Multilevel Modeling](decks/multilevel.html)
 
-[Longitudinal Data]
+[Longitudinal Data](decks/mixedmodel.html)
 
 [Missing Data]
 
