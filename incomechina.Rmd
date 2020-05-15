@@ -64,7 +64,7 @@ library(tidyverse)
 
 [Longitudinal Data](decks/mixedmodel.html)
 
-[Missing Data]
+[Missing Data](decks/missingdata.html)
 
 
 
