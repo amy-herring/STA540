@@ -199,15 +199,6 @@ The *Kronecker product* is a convenient way to express patterned covariance matr
 Using a Kronecker product, we can succinctly express the block diagonal covariance matrix of all our observations when we have equal numbers of observations in each group.
 
 
-## Estimation Methods
-
-We briefly consider the following estimation methods for random intercept models.
-
-  - Maximum likelihood (ML)
-  
-  - Restricted maximum likelihood (REML)
-  
-  - Empirical Bayes estimation
   
 
 ## Maximum Likelihood Estimation
