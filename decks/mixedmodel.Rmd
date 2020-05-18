@@ -186,7 +186,7 @@ Example: in a random intercept model, $Z_i$ is a $n_i \times 1$ vector of 1's
 ##
 
   - The subject-specific or conditional mean of $Y_i$ given $b_i$ is $E(Y_i \mid b_i)=X_i\beta+Z_ib_i$
-  - The marginal or populatoin-averaged mean of $Y_i$, averaging over the distribution of random effects $b_i$ is given by $E(E(Y_i\mid b_i))=E(X_i\beta+Z_ib_i)=X_i\beta$ as $b_i$ has mean zero.
+  - The marginal or population-averaged mean of $Y_i$, averaging over the distribution of random effects $b_i$ is given by $E(E(Y_i\mid b_i))=E(X_i\beta+Z_ib_i)=X_i\beta$ as $b_i$ has mean zero.
   
 ##
 
