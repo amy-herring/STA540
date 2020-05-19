@@ -51,9 +51,21 @@ library(tidyverse)
 
 [Help Visualizing these Data](https://github.com/Big-Ideas-Lab/DBDP/tree/master/DigitalBiomarkers-ExploratoryDataAnalysis/MissingDataAnalysis)
 
+[Using the Duke Computing Cluster](https://rc.duke.edu/dcc/dcc-user-guide/#toc_0 )
+
 # Video Lectures (See Sakai)
 
+[Basic Description of Study]
 
+[Dealing with File Types]
+
+[Alignment of Data]
+
+[General Data Cleaning Considerations]
+
+[Validation of Sensors]
+
+[Common Pitfalls to Avoid]
 
 
 
