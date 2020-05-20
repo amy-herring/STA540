@@ -47,7 +47,7 @@ Note: office hours may vary. Revisions to office hours will be noted via announc
 | Team member | Office hours | Location |
 | ----------  | -------------------------------------         | ---- |
 | [Professor Amy Herring](https://stat.duke.edu/people/amy-h-herring)  <a href="mailto:amy.herring@duke.edu" title="email"><i class="fa fa-envelope"></i></a> &nbsp;  | Tuesday and Thursday, 3:15-4:00 EDT and by appointment | Zoom (see Sakai) |
- [TA Rapha&euml;l Morsomme](https://stat.duke.edu/people/raphaël-morsomme-0)  <a href="mailto:raphael.morsomme@duke.edu" title="email"><i class="fa fa-envelope"></i></a> &nbsp;  | Monday and Wednesday, 7:00-8:00pm EDT and by appointment | Zoom (see Sakai)
+ [TA Rapha&euml;l Morsomme](https://stat.duke.edu/people/raphaël-morsomme-0)  <a href="mailto:raphael.morsomme@duke.edu" titele="email"><i class="fa fa-envelope"></i></a> &nbsp;  | Monday and Wednesday, 7:00-8:00pm EDT and by appointment | Zoom (see Sakai)
 
                   
 
@@ -74,7 +74,7 @@ Note: this schedule is approximate and is likely to be modified as the course pr
 | May 19   | Loss Functions; Lab: Simulations |   |
 | May 20   | Q\&A | Individual Project Proposal (Report and 2 Minute Video)   |
 | May 21  | Writing Methods, Results, and Discussion Sections; Lab Case | Case Study 1 (Report, Video/Presentation, Reproducible Code); Feedback on Individual Proposals  |
-| May 22  | Regression in Matrix Notation; Interaction | Case Study 1 Comments (including reproducibility); Individual Proposal Meetings  |
+| May 22  | Regression in Matrix Notation; Interaction (Watch Videos on Sakai) | Case Study 1 Comments (including reproducibility); Individual Proposal Meetings  |
 | May 26  | Case Study 2: China's Economic Development and  Household Income; Gini Index | Case Study 1 Response and Revision; Interaction Assignment (Individual)    |
 | May 27  | Recap of Case Study 1; Longitudinal Data Analysis: Mixed Effects Model  | Individual Project Submission I: Introduction and Data Description |
 | May 28  | Mixed Effects Model, Covariance |   |
