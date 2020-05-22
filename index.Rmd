@@ -75,9 +75,9 @@ Note: this schedule is approximate and is likely to be modified as the course pr
 | May 20   | Q\&A | Individual Project Proposal (Report and 2 Minute Video)   |
 | May 21  | Writing Methods, Results, and Discussion Sections; Lab Case | Case Study 1 (Report, Video/Presentation, Reproducible Code); Feedback on Individual Proposals  |
 | May 22  | Regression in Matrix Notation; Interaction (Watch Videos on Sakai) | Case Study 1 Comments (including reproducibility); Individual Proposal Meetings  |
-| May 26  | Case Study 2: China's Economic Development and  Household Income; Gini Index | Case Study 1 Response and Revision; Interaction Assignment (Individual)    |
-| May 27  | Recap of Case Study 1; Longitudinal Data Analysis: Mixed Effects Model  | Individual Project Submission I: Introduction and Data Description |
-| May 28  | Mixed Effects Model, Covariance |   |
+| May 26  | Case Study 2: China's Economic Development and  Household Income; Gini Index | Case Study 1 Response and Revision    |
+| May 27  | Recap of Case Study 1; Longitudinal Data Analysis: Mixed Effects Model; Lab on Simulation  | Individual Project Submission I: Introduction and Data Description |
+| May 28  | Mixed Effects Model, Covariance | Interaction Assignment (Individual)   |
 | May 29  | Missing Data |  Comments on Individual Project Submission I |
 | June 1  | Missing Data Simulation Study |  |
 | June 2 |  |  |
