@@ -30,7 +30,7 @@ library(tidyverse)
 
 # Data
 
-- Data for this case study are available on the Sakai website in a SAS dataset. The function *read_sas* in the *haven* package can be used to pull them into R. 
+- Data for this case study are available on the Sakai website (Data folder) in a SAS dataset, hhinc_10.sas7bdat. The function *read_sas* in the *haven* package can be used to pull them into R. 
 - Other CHNS household and individual-level data can be downloaded from the [CHNS Website](https://www.cpc.unc.edu/projects/china/data/datasets) by providing basic personal information.
 
 # Assignments and Reports
@@ -65,6 +65,8 @@ library(tidyverse)
 [Longitudinal Data](decks/mixedmodel.html)
 
 [Missing Data](decks/missingdata.html)
+
+CHNS Urbanization Data (if you want this) are on Sakai under Data
 
 
 
