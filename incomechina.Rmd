@@ -23,15 +23,16 @@ library(tidyverse)
 # Case Study Goals
 
 - Describe per capita household income (scaled to year 2015 dollars) over time in the CHNS
-- Determine whether changes in per capita household income over time vary by province or urban/rural status
-- Determine whether patterns of  household income over time vary by income source (business, farming, fishing, etc.)
-- Determine whether income inequality is increasing over time, and whether any changes vary across province, urban/rural status, or source of primary income
+- Determine whether changes in per capita household income over time vary by province or urban/rural status. If so, how?  Have some areas or sectors seen greater changes in household income than others?
+- Determine whether patterns of  household income over time vary by income source (business, farming, fishing, etc.). If so, how?
+- Determine whether income inequality is increasing over time, and whether any changes vary across province, urban/rural status, or source of primary income. Describe any changes you find.
 
 
 # Data
 
 - Data for this case study are available on the Sakai website (Data folder) in a SAS dataset, hhinc_10.sas7bdat. The function *read_sas* in the *haven* package can be used to pull them into R. 
-- Other CHNS household and individual-level data can be downloaded from the [CHNS Website](https://www.cpc.unc.edu/projects/china/data/datasets) by providing basic personal information.
+- Data on urbanicity are also provided on Sakai in the file urban_11.sas7bdat.
+- Other CHNS household (and individual-level) data can be downloaded, if desired, from the [CHNS Website](https://www.cpc.unc.edu/projects/china/data/datasets) after providing some basic personal information.
 
 # Assignments and Reports
 
