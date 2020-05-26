@@ -36,6 +36,8 @@ library(tidyverse)
 
 # Assignments and Reports
 
+- Interaction assignment (individual, due 5/28): Clearly specify (i.e., write the model equation using careful notation) a model for income in 2015 as a function of a household's province and its status as urban or rural, allowing the difference in income between urban and rural households to vary across province. Then specify clearly a second model that includes income in all years and that allows the time trend to depend on province, status as urban or rural, or the combination of the two variables.
+
 - Report, reproducible code, and video (Group assignment due 6/3): produce a 8 page (maximum) report using R markdown that clearly addresses the case study goals. This report should follow the format of a standard scientific report and should include sections for the introduction, methods, results, and discussion. The methods section should clearly identify the approach to model selection and evaluation, and the results section should clearly specify the final model selected, along with evidence the model provides a good fit to the data. Code should be fully reproducible.
 
 - Peer review of reports (Individual assignment due 6/4): using the peer review rubric provided, provide constructive feedback on the other group's report you have been assigned
@@ -67,7 +69,7 @@ library(tidyverse)
 
 [Missing Data](decks/missingdata.html)
 
-CHNS Urbanization Data (if you want this) are on Sakai under Data
+CHNS Urbanization Data (if you want them) are on Sakai under Data
 
 
 
