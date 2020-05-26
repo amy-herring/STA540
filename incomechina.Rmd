@@ -42,7 +42,7 @@ library(tidyverse)
 
 - Peer review of reports (Individual assignment due 6/4): using the peer review rubric provided, provide constructive feedback on the other group's report you have been assigned
 
-- Revised report and response to reviews (Group assignment due 6/5): groups may submit revised reports and must submit a point-by-point response to the review comments provided
+- Revised report and response to reviews (Group assignment due 6/8): groups may submit revised reports and must submit a point-by-point response to the review comments provided
 
 
 
