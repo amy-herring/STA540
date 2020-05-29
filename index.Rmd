@@ -79,18 +79,18 @@ Note: this schedule is approximate and is likely to be modified as the course pr
 | May 27  | Recap of Case Study 1; Longitudinal Data Analysis: Mixed Effects Model; Lab on Simulation  | Individual Project Submission I: Introduction and Data Description |
 | May 28  | Mixed Effects Model, Covariance (Watch Videos - Work Day) | Interaction Assignment (Individual)   |
 | May 29  | Missing Data (Watch Video & Complete Quiz in Video); Meet about Project Feedback |  Comments on Individual Project Submission I |
-| June 1  | Missing Data Simulation Study |  |
+| June 1  | Case Study 2 Q&A |  |
 | June 2 |  |  |
 | June 3 |   |  Case Study 2 (Report, Video, Reproducible Code) |
-| June 4  |         | Case Study 2 Comments (peer and instructor, including reproducibility) |
+| June 4  |  Guest Lecture: Tom Milledge, Research Computing       | Case Study 2 Comments (peer and instructor, including reproducibility) |
 | June 5    |  |    | 
-| June 8   | Recap of Case Study 2 |  Case Study 2 Response and Revision | 
-| June 9   | Case Study 3: Wearables and Stress | Individual Project Submission II: Methods and Preliminary Results (Report, Video, Reproducible Code) |
+| June 8   | Case Study 3: Wearables and Stress |  Case Study 2 Response and Revision | 
+| June 9   |  | Individual Project Submission II: Methods and Preliminary Results (Report, Video, Reproducible Code) |
 | June 10  | Brinnae Bent, Big Ideas Lab |  |
 | June 11   | Q&A With Brinnae (7pm) | Comments on Individual Project Submission II (peer and instructor)  |
 | June 12    | Guest Lecture on Professional Opportunities: Prof David Banks |   |
 | June 15  | |  | 
-| June 16    | | Case Study 3 (Report, Video, Reproducible Code)  | 
+| June 16    | Lab | Case Study 3 (Report, Video, Reproducible Code)  | 
 | June 17    |  |  Case Study 3 Comments (peer and instructor, including reproducibility) | 
 | June 18   |  | Case Study 3 Response and Revision |
 | June 19   | | Individual Project Submission III (Report, Video, Reproducible Code) | 
