@@ -31,11 +31,11 @@ library(tidyverse)
 
 # Assignments and Reports
 
-- Report, reproducible code, and video (Group assignment due 6/16): produce a 8 page (maximum) report using R markdown that clearly addresses the case study goals. This report should follow the format of a standard scientific report and should include sections for the introduction, methods, results, and discussion. The methods section should clearly identify the approach to model selection and evaluation, and the results section should clearly specify the final model selected, along with evidence the model provides a good fit to the data. Code should be fully reproducible.
+- Report and reproducible code (Group assignment due 6/16): produce a 8 page (maximum) report using R markdown that clearly addresses the case study goals. This report should follow the format of a standard scientific report and should include sections for the introduction, methods, results, and discussion. The methods section should clearly identify the approach to model selection and evaluation, and the results section should clearly specify the final model selected, along with evidence the model provides a good fit to the data. Code should be fully reproducible.
 
-- Peer review of reports (Individual assignment due 6/17): using the peer review rubric provided, provide constructive feedback on the other group's report you have been assigned
+- Peer review of reports (Individual assignment due 6/18): using the peer review rubric provided, provide constructive feedback on the other group's report you have been assigned
 
-- Revised report and response to reviews (Group assignment due 6/18): groups may submit revised reports and must submit a point-by-point response to the review comments provided
+- Revised report and response to reviews (Group assignment due 6/22): groups may submit revised reports and must submit a point-by-point response to the review comments provided
 
 
 
@@ -60,7 +60,7 @@ library(tidyverse)
 
 [Dealing with File Types]
 
-[XXX]
+[Alignment of Data]
 
 [Data Considerations]
 
