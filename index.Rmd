@@ -85,12 +85,12 @@ Note: this schedule is approximate and is likely to be modified as the course pr
 | June 4  |  Guest Lecture: Tom Milledge, Research Computing       | Case Study 2 Comments (peer and instructor, including reproducibility) |
 | June 5    | Lab: Working on the DCC |    | 
 | June 8   | Case Study 3: Wearables and Stress |  Case Study 2 Response and Revision | 
-| June 9   |  | Individual Project Submission II: Methods and Preliminary Results (Report, Video, Reproducible Code) |
+| June 9   |  | Individual Project Submission II: Methods and Preliminary Results (Report and Reproducible Code) |
 | June 10  | Brinnae Bent, Big Ideas Lab |  |
 | June 11   | Q&A With Brinnae (7pm) | Comments on Individual Project Submission II (peer and instructor)  |
 | June 12    | Guest Lecture on Professional Opportunities: Prof David Banks |   
-| June 15  | Individual Project Meetings |  | 
-| June 16    | Lab | Case Study 3 (Report, Video, Reproducible Code)  | 
+| June 15  | Guest Lecture on COVID Modeling: Prof Alex Volfovsky |  | 
+| June 16    | Individual Project Meetings | Case Study 3 (Report, Video, Reproducible Code)  | 
 | June 17    |  |  Case Study 3 Comments (peer and instructor, including reproducibility) | 
 | June 18   |  | Case Study 3 Response and Revision |
 | June 19   | | Individual Project Submission III (Report, Video, Reproducible Code) | 
