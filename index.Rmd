@@ -93,7 +93,7 @@ Note: this schedule is approximate and is likely to be modified as the course pr
 | June 16    | Individual Project Meetings | Case Study 3 (Report, Video, Reproducible Code)  | 
 | June 17    | Individual Project Meetings |   | 
 | June 18   | Individual Project Meetings | Case Study 3 Comments (peer and instructor, including reproducibility) |
-| June 19   | | Individual Project Submission III (Report, Video, Reproducible Code) | 
-| June 22   | | Case Study 3 Response and Revision; Individual Project Comments on Submission III (peer and instructor) |  
-| June 25    | | Individual Project Response and Final Revision (due at 2pm) | 
+| June 19   | Individual Project Meetings | Individual Project Submission III (Report, Video, Reproducible Code) | 
+| June 22   | Individual Project Meetings | Case Study 3 Response and Revision; Individual Project Comments on Submission III (peer and instructor) |  
+| June 25    | End of Summer I Celebration | Individual Project Response and Final Revision (due at 2pm) | 
 
