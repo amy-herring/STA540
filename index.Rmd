@@ -84,7 +84,7 @@ Note: this schedule is approximate and is likely to be modified as the course pr
 | June 3 |  Q&A on Individual Projects |  Case Study 2 (Report, Video, Reproducible Code) |
 | June 4  |  Guest Lecture: Tom Milledge, Research Computing       | Case Study 2 Comments (peer and instructor, including reproducibility) |
 | June 5    | Lab: Working on the DCC |    | 
-| June 8   | Case Study 3: Wearables and Stress |  Case Study 2 Response and Revision | 
+| June 8   | Case Study 3: Wearables and Stress; Lab: Data Processing on the DCC |  Case Study 2 Response and Revision | 
 | June 9   |  | Individual Project Submission II: Methods and Preliminary Results (Report and Reproducible Code) |
 | June 10  | Brinnae Bent, Big Ideas Lab |  |
 | June 11   | Q&A With Brinnae (7pm) | Comments on Individual Project Submission II (peer and instructor)  |
